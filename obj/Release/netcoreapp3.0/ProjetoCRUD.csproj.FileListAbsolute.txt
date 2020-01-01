@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Projeto CRUD - Banco de Alunos\bin\Release\netcoreapp3.0\ProjetoCRUD.exe
+C:\Users\Gabriel\Projeto CRUD - Banco de Alunos\bin\Release\netcoreapp3.0\ProjetoCRUD.deps.json
+C:\Users\Gabriel\Projeto CRUD - Banco de Alunos\bin\Release\netcoreapp3.0\ProjetoCRUD.runtimeconfig.json
+C:\Users\Gabriel\Projeto CRUD - Banco de Alunos\bin\Release\netcoreapp3.0\ProjetoCRUD.runtimeconfig.dev.json
+C:\Users\Gabriel\Projeto CRUD - Banco de Alunos\bin\Release\netcoreapp3.0\ProjetoCRUD.dll
+C:\Users\Gabriel\Projeto CRUD - Banco de Alunos\bin\Release\netcoreapp3.0\ProjetoCRUD.pdb
+C:\Users\Gabriel\Projeto CRUD - Banco de Alunos\obj\Release\netcoreapp3.0\ProjetoCRUD.csprojAssemblyReference.cache
+C:\Users\Gabriel\Projeto CRUD - Banco de Alunos\obj\Release\netcoreapp3.0\ProjetoCRUD.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Projeto CRUD - Banco de Alunos\obj\Release\netcoreapp3.0\ProjetoCRUD.AssemblyInfo.cs
+C:\Users\Gabriel\Projeto CRUD - Banco de Alunos\obj\Release\netcoreapp3.0\ProjetoCRUD.dll
+C:\Users\Gabriel\Projeto CRUD - Banco de Alunos\obj\Release\netcoreapp3.0\ProjetoCRUD.pdb

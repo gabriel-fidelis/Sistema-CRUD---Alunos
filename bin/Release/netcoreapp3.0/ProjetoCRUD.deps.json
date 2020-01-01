@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ProjetoCRUD/1.0.0": {
+        "runtime": {
+          "ProjetoCRUD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoCRUD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
