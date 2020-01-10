@@ -137,7 +137,7 @@ namespace ProjetoCap6
         }
         static void Atualizar()
         {
-            Console.WriteLine("Digite a matrícula a qual deseja atualizar: ");
+            Console.Write("Digite a matrícula a qual deseja atualizar: ");
             string matr = Console.ReadLine();
             if (Alunos.Exists(x => x.Matr == matr))
             {

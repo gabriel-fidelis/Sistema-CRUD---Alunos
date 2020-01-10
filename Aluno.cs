@@ -84,7 +84,7 @@ namespace ProjetoCap6
                     if (value[i] < 0 || value[i] > 10)
                     {
                         Console.Write("AV{0} inválida. Digite um valor entre 0 e 10: ", i + 1);
-                        double avplaceholder = double.Parse(Console.ReadLine());
+                        double avplaceholder = double.Parse(Console.ReadLine(), MyCult);
                         _av[i] = SetAv(avplaceholder, i);
                     }
                     else
@@ -103,7 +103,7 @@ namespace ProjetoCap6
             else
             {
                 Console.Write("AV{0} inválida. Digite um valor entre 0 e 10: ", i + 1);
-                double avplaceholder = double.Parse(Console.ReadLine());
+                double avplaceholder = double.Parse(Console.ReadLine(), MyCult);
                 return SetAv(avplaceholder, i);
             }
         }
